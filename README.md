@@ -5,6 +5,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A8FF&center=true&vCenter=true&width=500&lines=Freelance;Full+Stack+Developer+Student;3D+Artist+%26+Animator;Cybersecurity+Analist" alt="Typing SVG" />
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raulnony@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_USUARIO/)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/TU_ID)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-111927?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/TU_USUARIO)
 
 </div>
 
