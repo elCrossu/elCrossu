@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A8FF&center=true&vCenter=true&width=500&lines=Freelance;Full+Stack+Developer+Student;3D+Artist+%26+Animator;Cybersecurity+Analist" alt="Typing SVG" />
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raulnony@gmail.com)
+[![Email](https://raw.githubusercontent.com/SofianeHamlaoui/SofianeHamlaoui/master/icons/email.png?raw=true)](mailto:raulnony@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/ra%C3%BAl-perancho-nieto-2a1b491bb)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://profile.hackthebox.com/profile/019d9c42-0987-7371-8e10-25d44facc9ed)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-111927?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/elCrossu)
