@@ -10,7 +10,25 @@
 
 ---
 
-## 🛠️ Mi Stack Tecnológico
+---
+
+## 📊 Mis Estadísticas de GitHub
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=elCrossu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de elCrossu" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elCrossu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Lenguajes de elCrossu" width="48%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elCrossu&theme=tokyonight&hide_border=true" alt="Racha de commits de elCrossu" />
+
+</div>
 
 ### 🖥️ Lenguajes de Programación y Web
 <div align="center">
