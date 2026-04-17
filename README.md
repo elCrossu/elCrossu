@@ -51,6 +51,12 @@
 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Maya 3D](https://img.shields.io/badge/maya-%2337A5CC.svg?style=for-the-badge&logo=autodesk&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/after%20effects-%23CF96FE.svg?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/premiere%20pro-%239999FF.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![Adobe Substance Painter](https://img.shields.io/badge/substance%20painter-%23E51F1F.svg?style=for-the-badge&logo=adobesubstance3dpainter&logoColor=white)
+![KeyShot](https://img.shields.io/badge/keyshot-%23333333.svg?style=for-the-badge&logo=keyshot&logoColor=white)
+![Marmoset Toolbag](https://img.shields.io/badge/marmoset%20toolbag-%23333333.svg?style=for-the-badge&logo=marmoset&logoColor=white)
 
 </div>
 
