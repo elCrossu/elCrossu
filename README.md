@@ -62,12 +62,12 @@
 
 ### 🔒 Ciberseguridad, Pentesting y Sistemas
 <div align="center">
-
+  
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-1A1918?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Pentesting](https://img.shields.io/badge/Pentesting-000000?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Parrot OS](https://img.shields.io/badge/Parrot_OS-39C5C1?style=for-the-badge&logo=parrotsecurity&logoColor=white)
-![Pentesting](https://img.shields.io/badge/Pentesting-000000?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-1A1918?style=for-the-badge&logo=tryhackme&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-EE2B2A?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
