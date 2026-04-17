@@ -1,16 +1,28 @@
-## Hi there 👋
+<div align="center">
+  
+# 👋 ¡Hola! Soy elCrossu
 
-<!--
-**elCrossu/elCrossu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00A8FF&center=true&vCenter=true&width=500&lines=Freelance+Developer;3D+Artist+%26+Animator;Cybersecurity+Specialist" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raulnony@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🚀 Sobre Mí
+
+```javascript
+const elCrossu = {
+    rolActual: "Freelance",
+    formacion: [
+        "Grado y Máster en Modelado y Animación 3D",
+        "Bootcamp en Ciberseguridad"
+    ],
+    habilidades: [
+        "Desarrollo de Software", 
+        "Arte 3D", 
+        "Pentesting & Seguridad"
+    ],
+    disponibleParaProyectos: true
+};
