@@ -76,7 +76,6 @@
 <div align="center">
   
 ![Red Team](https://img.shields.io/badge/Red_Team-B30000?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Parrot OS](https://img.shields.io/badge/Parrot_OS-39C5C1?style=for-the-badge&logo=parrotsecurity&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
