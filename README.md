@@ -2,7 +2,7 @@
   
 # 👋 ¡Hola! Soy elCrossu
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00A8FF&center=true&vCenter=true&width=500&lines=Freelance+Developer;3D+Artist+%26+Animator;Cybersecurity+Specialist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A8FF&center=true&vCenter=true&width=500&lines=Freelance+Developer;3D+Artist+%26+Animator;Cybersecurity+Specialist" alt="Typing SVG" />
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raulnony@gmail.com)
 
@@ -10,19 +10,34 @@
 
 ---
 
-## 🚀 Sobre Mí
+## 🛠️ Mi Stack Tecnológico
 
-```javascript
-const elCrossu = {
-    rolActual: "Freelance",
-    formacion: [
-        "Grado y Máster en Modelado y Animación 3D",
-        "Bootcamp en Ciberseguridad"
-    ],
-    habilidades: [
-        "Desarrollo de Software", 
-        "Arte 3D", 
-        "Pentesting & Seguridad"
-    ],
-    disponibleParaProyectos: true
-};
+### 🖥️ Lenguajes de Programación y Web
+<div align="center">
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+### 🎨 Modelado y Animación 3D
+<div align="center">
+
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Maya 3D](https://img.shields.io/badge/maya-%2337A5CC.svg?style=for-the-badge&logo=autodesk&logoColor=white)
+
+</div>
+
+### 🔒 Ciberseguridad, Pentesting y Sistemas
+<div align="center">
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Pentesting](https://img.shields.io/badge/Pentesting-000000?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-1A1918?style=for-the-badge&logo=tryhackme&logoColor=white)
+
+</div>
