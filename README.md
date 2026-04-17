@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 ¡Hola! Soy elCrossu
+# elCrossu
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A8FF&center=true&vCenter=true&width=500&lines=Freelance;Full+Stack+Developer+Student;3D+Artist+%26+Animator;Cybersecurity+Analist" alt="Typing SVG" />
 
